@@ -1,4 +1,4 @@
-Copyright (c) <2021>, 9mpd
+Copyright (c) 2021, 9mpd
 All rights reserved.
 
 This source code is licensed under the BSD-style license found in the
